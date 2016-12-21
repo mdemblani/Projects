@@ -1,3 +1,4 @@
+//Function to count the number of watches in angularJS for the current view i.e. DOM
 (function () { 
     var root = angular.element(document.getElementsByTagName('body'));
 
