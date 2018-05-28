@@ -6,7 +6,6 @@ using namespace std;
 
 int main() {
     
-    // Take input from standard input
     int interviewCount, negelectCount;
     
     cin >> interviewCount;
@@ -27,7 +26,6 @@ int main() {
     int importantInterviewCount = 0, 
         *importantInterviewLuck = new int[negelectCount];
     
-    // Take in user input
     do {
         cin >> luck >> important;
         // Add the total luck to the balance
