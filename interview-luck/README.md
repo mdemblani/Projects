@@ -33,12 +33,6 @@ Print a single line denoting the maximum amount of luck you have after these
 interviews.
 Example:
 Sample Input:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| 6      | right-aligned | $1600 |
-| 5      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 | | |
 | --- | ---|
 | 6  | 3 |
